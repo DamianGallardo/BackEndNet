@@ -1,0 +1,8 @@
+
+// Ignorar los archivos de configuración de Visual Studio
+.vs
+.vscode
+obj
+bin
+appsettings.json
+appsettings.Development.json
